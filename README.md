@@ -5,11 +5,7 @@ Im Banjo Obayomi a DataOps enginer based in the Washington DC area (DMV).
 *What is DataOps?*  
 DataOps is an automated, process-oriented methodology, used by analytic and data teams, to improve the quality and reduce the cycle time of data analytics.  
 
-Read more at
-https://en.wikipedia.org/wiki/DataOps  
-https://www.dataopsmanifesto.org/
-
-
+Read more at https://en.wikipedia.org/wiki/DataOps and https://www.dataopsmanifesto.org/
 
 
 - 🔭 My Mantra ...
