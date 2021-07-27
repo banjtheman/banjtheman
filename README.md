@@ -13,9 +13,10 @@ Read more at https://www.dataopsmanifesto.org/
 
 - 🔭 I’m currently working on ...
 
-**GitGallery** - https://www.gitgallery.com/ - GitGallery allows you to mint your code into an NFT which can be sold on OpenSea 
+**GitGallery** - https://www.gitgallery.com/ - GitGallery allows you to mint your code into an NFT which can be sold on OpenSea  
 **DataOps Podcast** - https://anchor.fm/dataops -- A podcast about DataOps   
-**DataOpsDC Meetup** - https://www.meetup.com/DataOpsDC/ - Virtual Tech talks on DataOps  
+**DataOpsDC Meetup** - https://www.meetup.com/DataOpsDC/ - Tech talks on DataOps  
+**BlockchaindevDC** - https://www.meetup.com/blockchaindevdc - Tech talks on Blockchain Development  
 
 
 - 📫 How to reach me: ...
